@@ -18,7 +18,7 @@ body {
     text-align: center;
 
     background-color: #e8e8e8;
-    background-image: url('/img/papel.jpg');
+    background-image: url('img/papel.jpg');
     background-size: 100%;
     /* background-color: #2c01a2; */
 }
